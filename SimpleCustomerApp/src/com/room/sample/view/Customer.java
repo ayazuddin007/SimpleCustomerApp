@@ -17,7 +17,7 @@ public class Customer implements Serializable{
         return name;
     }
 
-    public void setNames(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
